@@ -4,6 +4,12 @@
 
 }
 
+.coin {
+	position: absolute;
+	top: -20px;
+	left: -20px;
+}
+
 .a {
 	position: relative;
 	float: left;
