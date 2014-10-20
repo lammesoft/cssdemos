@@ -1,0 +1,9 @@
+.div1 {
+	position: fixed;
+	top: 60px;
+	right: 110px;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	background: orange;
+}
