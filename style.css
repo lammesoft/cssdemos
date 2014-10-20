@@ -1,20 +1,19 @@
 
 .cont {
-	/*width: 800px;*/
-	margin: auto;
+	width: 800px;
+	margin:0 auto;
 
 }
 
 .a {
-	position: relative;
+	width: 400px;
 	float: left;
-	margin: 5px;
-	padding: 10px;
-	width: 150px;
+	background: #009CF2;
+}
+.b {
+	width: 400px;
+	float: left;
 	background: #FF9CF2;
-	border: solid;
-	border-color: red;
-
 }
 
 
